@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="sort_by_most_popular">Sort By Most Popular</string>
+    <string name="sort_by_top_rated">Sort By Top Rated</string>
+    <string name="sort_by_fav_mov">My Favorite Movies</string>
+    <string name="star_off">star_off</string>
+</resources>
