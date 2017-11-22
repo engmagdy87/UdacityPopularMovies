@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity implements MovieItemAdapter.
         if(SELECTED_OPTION.equals("favorite"))
         {
             getLoaderManager().restartLoader(TASK_LOADER_ID, null, callbacks);
-        }else {
+        } else {
             movieAdapter.setMovieData(ONSAVEINSTANCESTATE_MOVIES);
         }
     }
